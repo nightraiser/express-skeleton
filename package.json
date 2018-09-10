@@ -1,0 +1,18 @@
+{
+  "name": "express-skeleton",
+  "version": "0.0.1",
+  "description": "Skeleton for Express Application Hosting RESTful Apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nightraiser/express-skeleton.git"
+  },
+  "author": "Nightraiser",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
